@@ -1,0 +1,3 @@
+[submodule "Tools/godot-blender-exporter"]
+	path = Tools/godot-blender-exporter
+	url = git@github.com:godotengine/godot-blender-exporter.git
